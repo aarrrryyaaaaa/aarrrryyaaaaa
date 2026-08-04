@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Arya and I'm a Informatic Student, from Institut Teknologi Sains Bandung</h2>
+<h2 data-importer="text" align="left">Hi... My name is Arya and I'm a Informatic Student, from Institut Teknologi Sains Bandung</h2>
 
 ###
 
